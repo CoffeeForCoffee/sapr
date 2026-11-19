@@ -8,10 +8,17 @@
 
 Примеры использования.
 Построение:
+
 <img width="1292" height="703" alt="image" src="https://github.com/user-attachments/assets/30c530eb-6858-4667-adf4-7bb329c8cc9d" />
+
 Расчёт эпюр:
+
 <img width="1299" height="691" alt="image" src="https://github.com/user-attachments/assets/0c30f4d3-9e97-4930-8c1a-9ee73cc89214" />
+
 Расчёт с шагом:
+
 <img width="706" height="531" alt="image" src="https://github.com/user-attachments/assets/14c619dd-622d-47b7-b614-6751302448ba" />
+
 Расчёт в точке:
+
 <img width="605" height="428" alt="image" src="https://github.com/user-attachments/assets/19c386b2-bf63-4ec7-894e-9f72ac5adad4" />
